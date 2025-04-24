@@ -1,6 +1,6 @@
 {
   "vaultName": "ZQWY 1.2",
-  "lastExport": 1745509450194,
+  "lastExport": 1745511091309,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -24,24 +24,23 @@
     "ZQWY/Notes/Music/Void Face.md",
     "ZQWY/Notes/Music/Zemic.md",
     "ZQWY/Regles/Как заливать треки.md",
-    "ZQWY/План на следующий стрим.md",
+    "ZQWY/Regles/Лицензирование треков.md",
+    "ZQWY/Streams/Расписание Стримов.md",
+    "ZQWY/План на стрим.md",
     "index.canvas",
-    "lib/media/alone.png",
     "lib/media/be-simpler.jpg",
     "lib/media/cool-and-love.wav",
     "lib/media/he's-guilty.wav",
     "lib/media/i-did-it.wav",
     "lib/media/mannequins.jpg",
     "lib/media/not-diverse.png",
-    "lib/media/void-face.png",
-    "lib/media/zemic.png",
     "lib/media/pasted-image-20250422181409.png",
     "art/void-face.png",
     "pasted-image-20250422181409.png",
     "art/alone.png",
-    "art/zemic.png",
     "art/not-diverse.png",
     "art/mannequins.jpg",
+    "art/zemic.png",
     "art/be-simpler.jpg",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
@@ -71,7 +70,13 @@
     "lib/styles/obsidian.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/supported-plugins.css",
-    "lib/styles/main-styles.css"
+    "lib/styles/main-styles.css",
+    "lib/media/alone.png",
+    "lib/media/void-face.png",
+    "lib/media/zemic.png",
+    "zqwy/music/be-simpler/cool-and-love.wav",
+    "zqwy/music/be-simpler/he's-guilty.wav",
+    "zqwy/music/be-simpler/i-did-it.wav"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -180,8 +185,8 @@
       ]
     },
     "ZQWY/Notes/Music/Be Simpler.md": {
-      "modifiedTime": 1745509450194,
-      "sourceSize": 1773,
+      "modifiedTime": 1745511091309,
+      "sourceSize": 2215,
       "exportedPath": "zqwy/notes/music/be-simpler.html",
       "dependencies": [
         "lib/media/be-simpler.jpg",
@@ -191,16 +196,16 @@
       ]
     },
     "ZQWY/Notes/Music/Mannequins.md": {
-      "modifiedTime": 1745509450194,
-      "sourceSize": 1047,
+      "modifiedTime": 1745511091309,
+      "sourceSize": 1034,
       "exportedPath": "zqwy/notes/music/mannequins.html",
       "dependencies": [
         "lib/media/mannequins.jpg"
       ]
     },
     "ZQWY/Notes/Music/Not Diverse.md": {
-      "modifiedTime": 1745509450194,
-      "sourceSize": 43,
+      "modifiedTime": 1745511091309,
+      "sourceSize": 31,
       "exportedPath": "zqwy/notes/music/not-diverse.html",
       "dependencies": [
         "lib/media/not-diverse.png"
@@ -228,25 +233,17 @@
       "exportedPath": "zqwy/regles/как-заливать-треки.html",
       "dependencies": []
     },
-    "ZQWY/План на следующий стрим.md": {
-      "modifiedTime": 1745509450194,
-      "sourceSize": 655,
-      "exportedPath": "zqwy/план-на-следующий-стрим.html",
-      "dependencies": [
-        "lib/media/pasted-image-20250422181409.png"
-      ]
-    },
     "index.canvas": {
-      "modifiedTime": 1745509450194,
-      "sourceSize": 7163,
+      "modifiedTime": 1745511091309,
+      "sourceSize": 7549,
       "exportedPath": "index.html",
       "dependencies": [
         "art/void-face.png",
         "pasted-image-20250422181409.png",
         "art/alone.png",
-        "art/zemic.png",
         "art/not-diverse.png",
         "art/mannequins.jpg",
+        "art/zemic.png",
         "art/be-simpler.jpg",
         "zqwy/music/be-simpler/cool-and-love.wav",
         "zqwy/music/be-simpler/he's-guilty.wav",
@@ -260,37 +257,37 @@
       "dependencies": []
     },
     "lib/media/be-simpler.jpg": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 3994629,
       "exportedPath": "lib/media/be-simpler.jpg",
       "dependencies": []
     },
     "lib/media/cool-and-love.wav": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 54857258,
       "exportedPath": "lib/media/cool-and-love.wav",
       "dependencies": []
     },
     "lib/media/he's-guilty.wav": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 60764754,
       "exportedPath": "lib/media/he's-guilty.wav",
       "dependencies": []
     },
     "lib/media/i-did-it.wav": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 75903554,
       "exportedPath": "lib/media/i-did-it.wav",
       "dependencies": []
     },
     "lib/media/mannequins.jpg": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 4764103,
       "exportedPath": "lib/media/mannequins.jpg",
       "dependencies": []
     },
     "lib/media/not-diverse.png": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 31146383,
       "exportedPath": "lib/media/not-diverse.png",
       "dependencies": []
@@ -308,244 +305,264 @@
       "dependencies": []
     },
     "lib/media/pasted-image-20250422181409.png": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 72453,
       "exportedPath": "lib/media/pasted-image-20250422181409.png",
       "dependencies": []
     },
     "art/void-face.png": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 2718786,
       "exportedPath": "art/void-face.png",
       "dependencies": []
     },
     "pasted-image-20250422181409.png": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 72453,
       "exportedPath": "pasted-image-20250422181409.png",
       "dependencies": []
     },
     "art/alone.png": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 12096126,
       "exportedPath": "art/alone.png",
       "dependencies": []
     },
     "art/zemic.png": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 8691267,
       "exportedPath": "art/zemic.png",
       "dependencies": []
     },
     "art/not-diverse.png": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 31146383,
       "exportedPath": "art/not-diverse.png",
       "dependencies": []
     },
     "art/mannequins.jpg": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 4764103,
       "exportedPath": "art/mannequins.jpg",
       "dependencies": []
     },
     "art/be-simpler.jpg": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 3994629,
       "exportedPath": "art/be-simpler.jpg",
       "dependencies": []
     },
     "zqwy/music/be-simpler/cool-and-love.wav": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 54857258,
       "exportedPath": "zqwy/music/be-simpler/cool-and-love.wav",
       "dependencies": []
     },
     "zqwy/music/be-simpler/he's-guilty.wav": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 60764754,
       "exportedPath": "zqwy/music/be-simpler/he's-guilty.wav",
       "dependencies": []
     },
     "zqwy/music/be-simpler/i-did-it.wav": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 75903554,
       "exportedPath": "zqwy/music/be-simpler/i-did-it.wav",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1745509450194,
-      "sourceSize": 26297,
+      "modifiedTime": 1745511091309,
+      "sourceSize": 28785,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1745509450194,
-      "sourceSize": 1365,
+      "modifiedTime": 1745511091309,
+      "sourceSize": 1480,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 138258,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 285,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 33819,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1745509450194,
+      "modifiedTime": 1745511091309,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
+    },
+    "ZQWY/Regles/Лицензирование треков.md": {
+      "modifiedTime": 1745511091309,
+      "sourceSize": 0,
+      "exportedPath": "zqwy/regles/лицензирование-треков.html",
+      "dependencies": []
+    },
+    "ZQWY/Streams/Расписание Стримов.md": {
+      "modifiedTime": 1745511091309,
+      "sourceSize": 269,
+      "exportedPath": "zqwy/streams/расписание-стримов.html",
+      "dependencies": []
+    },
+    "ZQWY/План на стрим.md": {
+      "modifiedTime": 1745511091309,
+      "sourceSize": 1924,
+      "exportedPath": "zqwy/план-на-стрим.html",
+      "dependencies": [
+        "lib/media/pasted-image-20250422181409.png"
+      ]
     }
   }
 }
