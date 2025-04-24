@@ -1,12 +1,48 @@
 {
   "vaultName": "ZQWY 1.2",
-  "lastExport": 1745492642454,
+  "lastExport": 1745509450194,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "ZQWY.canvas",
+    "ZQWY/Lifestory/2024-08-12 - Первый день в Сбербанке....md",
+    "ZQWY/Music/Be Simpler/Cool and Love.wav",
+    "ZQWY/Music/Be Simpler/He's Guilty.wav",
+    "ZQWY/Music/Be Simpler/I Did It.wav",
+    "ZQWY/Notes/Codding&Dev/Заметки по линуксу и тд.md",
+    "ZQWY/Notes/Codding&Dev/Hise.md",
+    "ZQWY/Notes/Codding&Dev/Rust.md",
+    "ZQWY/Notes/Concepts and Lore/Концепт - Лес Фантазий.md",
+    "ZQWY/Notes/Concepts and Lore/Концепт призраки-близнецы.md",
+    "ZQWY/Notes/Concepts and Lore/Наброски для концепта механики синтеза элементов.md",
+    "ZQWY/Notes/Deisgn/TouchDesigner.md",
+    "ZQWY/Notes/Music/Alone.md",
+    "ZQWY/Notes/Music/Be Simpler.md",
+    "ZQWY/Notes/Music/Mannequins.md",
+    "ZQWY/Notes/Music/Not Diverse.md",
+    "ZQWY/Notes/Music/Void Face.md",
+    "ZQWY/Notes/Music/Zemic.md",
+    "ZQWY/Regles/Как заливать треки.md",
+    "ZQWY/План на следующий стрим.md",
+    "index.canvas",
+    "lib/media/alone.png",
+    "lib/media/be-simpler.jpg",
+    "lib/media/cool-and-love.wav",
+    "lib/media/he's-guilty.wav",
+    "lib/media/i-did-it.wav",
+    "lib/media/mannequins.jpg",
+    "lib/media/not-diverse.png",
+    "lib/media/void-face.png",
+    "lib/media/zemic.png",
+    "lib/media/pasted-image-20250422181409.png",
+    "art/void-face.png",
+    "pasted-image-20250422181409.png",
+    "art/alone.png",
+    "art/zemic.png",
+    "art/not-diverse.png",
+    "art/mannequins.jpg",
+    "art/be-simpler.jpg",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -22,28 +58,6 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/6155340132a851f6089e.svg",
-    "lib/fonts/mathjax_zero.woff",
-    "lib/fonts/mathjax_main-regular.woff",
-    "lib/fonts/mathjax_main-bold.woff",
-    "lib/fonts/mathjax_math-italic.woff",
-    "lib/fonts/mathjax_main-italic.woff",
-    "lib/fonts/mathjax_math-bolditalic.woff",
-    "lib/fonts/mathjax_size1-regular.woff",
-    "lib/fonts/mathjax_size2-regular.woff",
-    "lib/fonts/mathjax_size3-regular.woff",
-    "lib/fonts/mathjax_size4-regular.woff",
-    "lib/fonts/mathjax_ams-regular.woff",
-    "lib/fonts/mathjax_calligraphic-regular.woff",
-    "lib/fonts/mathjax_calligraphic-bold.woff",
-    "lib/fonts/mathjax_fraktur-regular.woff",
-    "lib/fonts/mathjax_fraktur-bold.woff",
-    "lib/fonts/mathjax_sansserif-regular.woff",
-    "lib/fonts/mathjax_sansserif-bold.woff",
-    "lib/fonts/mathjax_sansserif-italic.woff",
-    "lib/fonts/mathjax_script-regular.woff",
-    "lib/fonts/mathjax_typewriter-regular.woff",
-    "lib/fonts/mathjax_vector-regular.woff",
-    "lib/fonts/mathjax_vector-bold.woff",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
     "lib/scripts/graph-view.js",
@@ -75,28 +89,6 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/6155340132a851f6089e.svg",
-    "lib/fonts/mathjax_zero.woff",
-    "lib/fonts/mathjax_main-regular.woff",
-    "lib/fonts/mathjax_main-bold.woff",
-    "lib/fonts/mathjax_math-italic.woff",
-    "lib/fonts/mathjax_main-italic.woff",
-    "lib/fonts/mathjax_math-bolditalic.woff",
-    "lib/fonts/mathjax_size1-regular.woff",
-    "lib/fonts/mathjax_size2-regular.woff",
-    "lib/fonts/mathjax_size3-regular.woff",
-    "lib/fonts/mathjax_size4-regular.woff",
-    "lib/fonts/mathjax_ams-regular.woff",
-    "lib/fonts/mathjax_calligraphic-regular.woff",
-    "lib/fonts/mathjax_calligraphic-bold.woff",
-    "lib/fonts/mathjax_fraktur-regular.woff",
-    "lib/fonts/mathjax_fraktur-bold.woff",
-    "lib/fonts/mathjax_sansserif-regular.woff",
-    "lib/fonts/mathjax_sansserif-bold.woff",
-    "lib/fonts/mathjax_sansserif-italic.woff",
-    "lib/fonts/mathjax_script-regular.woff",
-    "lib/fonts/mathjax_typewriter-regular.woff",
-    "lib/fonts/mathjax_vector-regular.woff",
-    "lib/fonts/mathjax_vector-bold.woff",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
     "lib/scripts/graph-view.js",
@@ -113,314 +105,444 @@
     "lib/styles/main-styles.css"
   ],
   "fileInfo": {
-    "ZQWY.canvas": {
-      "modifiedTime": 1745492642454,
-      "sourceSize": 1622,
-      "exportedPath": "zqwy.html",
+    "ZQWY/Lifestory/2024-08-12 - Первый день в Сбербанке....md": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 829,
+      "exportedPath": "zqwy/lifestory/2024-08-12-первый-день-в-сбербанке....html",
+      "dependencies": []
+    },
+    "ZQWY/Music/Be Simpler/Cool and Love.wav": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 54857258,
+      "exportedPath": "zqwy/music/be-simpler/cool-and-love.wav",
+      "dependencies": []
+    },
+    "ZQWY/Music/Be Simpler/He's Guilty.wav": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 60764754,
+      "exportedPath": "zqwy/music/be-simpler/he's-guilty.wav",
+      "dependencies": []
+    },
+    "ZQWY/Music/Be Simpler/I Did It.wav": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 75903554,
+      "exportedPath": "zqwy/music/be-simpler/i-did-it.wav",
+      "dependencies": []
+    },
+    "ZQWY/Notes/Codding&Dev/Заметки по линуксу и тд.md": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 5810,
+      "exportedPath": "zqwy/notes/codding&dev/заметки-по-линуксу-и-тд.html",
+      "dependencies": []
+    },
+    "ZQWY/Notes/Codding&Dev/Hise.md": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 300,
+      "exportedPath": "zqwy/notes/codding&dev/hise.html",
+      "dependencies": []
+    },
+    "ZQWY/Notes/Codding&Dev/Rust.md": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 88,
+      "exportedPath": "zqwy/notes/codding&dev/rust.html",
+      "dependencies": []
+    },
+    "ZQWY/Notes/Concepts and Lore/Концепт - Лес Фантазий.md": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 38,
+      "exportedPath": "zqwy/notes/concepts-and-lore/концепт-лес-фантазий.html",
+      "dependencies": []
+    },
+    "ZQWY/Notes/Concepts and Lore/Концепт призраки-близнецы.md": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 8179,
+      "exportedPath": "zqwy/notes/concepts-and-lore/концепт-призраки-близнецы.html",
+      "dependencies": []
+    },
+    "ZQWY/Notes/Concepts and Lore/Наброски для концепта механики синтеза элементов.md": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 5248,
+      "exportedPath": "zqwy/notes/concepts-and-lore/наброски-для-концепта-механики-синтеза-элементов.html",
+      "dependencies": []
+    },
+    "ZQWY/Notes/Deisgn/TouchDesigner.md": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 127,
+      "exportedPath": "zqwy/notes/deisgn/touchdesigner.html",
+      "dependencies": []
+    },
+    "ZQWY/Notes/Music/Alone.md": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 25,
+      "exportedPath": "zqwy/notes/music/alone.html",
+      "dependencies": [
+        "lib/media/alone.png"
+      ]
+    },
+    "ZQWY/Notes/Music/Be Simpler.md": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 1773,
+      "exportedPath": "zqwy/notes/music/be-simpler.html",
+      "dependencies": [
+        "lib/media/be-simpler.jpg",
+        "lib/media/cool-and-love.wav",
+        "lib/media/he's-guilty.wav",
+        "lib/media/i-did-it.wav"
+      ]
+    },
+    "ZQWY/Notes/Music/Mannequins.md": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 1047,
+      "exportedPath": "zqwy/notes/music/mannequins.html",
+      "dependencies": [
+        "lib/media/mannequins.jpg"
+      ]
+    },
+    "ZQWY/Notes/Music/Not Diverse.md": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 43,
+      "exportedPath": "zqwy/notes/music/not-diverse.html",
+      "dependencies": [
+        "lib/media/not-diverse.png"
+      ]
+    },
+    "ZQWY/Notes/Music/Void Face.md": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 19,
+      "exportedPath": "zqwy/notes/music/void-face.html",
+      "dependencies": [
+        "lib/media/void-face.png"
+      ]
+    },
+    "ZQWY/Notes/Music/Zemic.md": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 465,
+      "exportedPath": "zqwy/notes/music/zemic.html",
+      "dependencies": [
+        "lib/media/zemic.png"
+      ]
+    },
+    "ZQWY/Regles/Как заливать треки.md": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 770,
+      "exportedPath": "zqwy/regles/как-заливать-треки.html",
+      "dependencies": []
+    },
+    "ZQWY/План на следующий стрим.md": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 655,
+      "exportedPath": "zqwy/план-на-следующий-стрим.html",
+      "dependencies": [
+        "lib/media/pasted-image-20250422181409.png"
+      ]
+    },
+    "index.canvas": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 7163,
+      "exportedPath": "index.html",
+      "dependencies": [
+        "art/void-face.png",
+        "pasted-image-20250422181409.png",
+        "art/alone.png",
+        "art/zemic.png",
+        "art/not-diverse.png",
+        "art/mannequins.jpg",
+        "art/be-simpler.jpg",
+        "zqwy/music/be-simpler/cool-and-love.wav",
+        "zqwy/music/be-simpler/he's-guilty.wav",
+        "zqwy/music/be-simpler/i-did-it.wav"
+      ]
+    },
+    "lib/media/alone.png": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 12096126,
+      "exportedPath": "lib/media/alone.png",
+      "dependencies": []
+    },
+    "lib/media/be-simpler.jpg": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 3994629,
+      "exportedPath": "lib/media/be-simpler.jpg",
+      "dependencies": []
+    },
+    "lib/media/cool-and-love.wav": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 54857258,
+      "exportedPath": "lib/media/cool-and-love.wav",
+      "dependencies": []
+    },
+    "lib/media/he's-guilty.wav": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 60764754,
+      "exportedPath": "lib/media/he's-guilty.wav",
+      "dependencies": []
+    },
+    "lib/media/i-did-it.wav": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 75903554,
+      "exportedPath": "lib/media/i-did-it.wav",
+      "dependencies": []
+    },
+    "lib/media/mannequins.jpg": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 4764103,
+      "exportedPath": "lib/media/mannequins.jpg",
+      "dependencies": []
+    },
+    "lib/media/not-diverse.png": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 31146383,
+      "exportedPath": "lib/media/not-diverse.png",
+      "dependencies": []
+    },
+    "lib/media/void-face.png": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 2718786,
+      "exportedPath": "lib/media/void-face.png",
+      "dependencies": []
+    },
+    "lib/media/zemic.png": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 8691267,
+      "exportedPath": "lib/media/zemic.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250422181409.png": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 72453,
+      "exportedPath": "lib/media/pasted-image-20250422181409.png",
+      "dependencies": []
+    },
+    "art/void-face.png": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 2718786,
+      "exportedPath": "art/void-face.png",
+      "dependencies": []
+    },
+    "pasted-image-20250422181409.png": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 72453,
+      "exportedPath": "pasted-image-20250422181409.png",
+      "dependencies": []
+    },
+    "art/alone.png": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 12096126,
+      "exportedPath": "art/alone.png",
+      "dependencies": []
+    },
+    "art/zemic.png": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 8691267,
+      "exportedPath": "art/zemic.png",
+      "dependencies": []
+    },
+    "art/not-diverse.png": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 31146383,
+      "exportedPath": "art/not-diverse.png",
+      "dependencies": []
+    },
+    "art/mannequins.jpg": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 4764103,
+      "exportedPath": "art/mannequins.jpg",
+      "dependencies": []
+    },
+    "art/be-simpler.jpg": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 3994629,
+      "exportedPath": "art/be-simpler.jpg",
+      "dependencies": []
+    },
+    "zqwy/music/be-simpler/cool-and-love.wav": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 54857258,
+      "exportedPath": "zqwy/music/be-simpler/cool-and-love.wav",
+      "dependencies": []
+    },
+    "zqwy/music/be-simpler/he's-guilty.wav": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 60764754,
+      "exportedPath": "zqwy/music/be-simpler/he's-guilty.wav",
+      "dependencies": []
+    },
+    "zqwy/music/be-simpler/i-did-it.wav": {
+      "modifiedTime": 1745509450194,
+      "sourceSize": 75903554,
+      "exportedPath": "zqwy/music/be-simpler/i-did-it.wav",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1745492642454,
+      "modifiedTime": 1745509450194,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1745492642454,
+      "modifiedTime": 1745509450194,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1745492642454,
+      "modifiedTime": 1745509450194,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1745492642454,
+      "modifiedTime": 1745509450194,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1745492642454,
+      "modifiedTime": 1745509450194,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1745492642454,
+      "modifiedTime": 1745509450194,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1745492642454,
+      "modifiedTime": 1745509450194,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1745492642454,
+      "modifiedTime": 1745509450194,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1745492642454,
+      "modifiedTime": 1745509450194,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1745492642454,
+      "modifiedTime": 1745509450194,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1745492642454,
+      "modifiedTime": 1745509450194,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1745492642454,
+      "modifiedTime": 1745509450194,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1745492642454,
+      "modifiedTime": 1745509450194,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1745492642454,
+      "modifiedTime": 1745509450194,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1745492642454,
+      "modifiedTime": 1745509450194,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
-    "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1745492642454,
-      "sourceSize": 1368,
-      "exportedPath": "lib/fonts/mathjax_zero.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1745492642454,
-      "sourceSize": 34160,
-      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1745492642454,
-      "sourceSize": 34464,
-      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1745492642454,
-      "sourceSize": 19360,
-      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1745492642454,
-      "sourceSize": 20832,
-      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1745492642454,
-      "sourceSize": 19776,
-      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1745492642454,
-      "sourceSize": 5792,
-      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1745492642454,
-      "sourceSize": 5464,
-      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1745492642454,
-      "sourceSize": 3244,
-      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1745492642454,
-      "sourceSize": 5148,
-      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1745492642454,
-      "sourceSize": 40808,
-      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1745492642454,
-      "sourceSize": 9600,
-      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1745492642454,
-      "sourceSize": 9908,
-      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1745492642454,
-      "sourceSize": 21480,
-      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1745492642454,
-      "sourceSize": 22340,
-      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1745492642454,
-      "sourceSize": 12660,
-      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1745492642454,
-      "sourceSize": 15944,
-      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1745492642454,
-      "sourceSize": 14628,
-      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1745492642454,
-      "sourceSize": 11852,
-      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1745492642454,
-      "sourceSize": 17604,
-      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1745492642454,
-      "sourceSize": 1136,
-      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
-      "dependencies": []
-    },
-    "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1745492642454,
-      "sourceSize": 1116,
-      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
-      "dependencies": []
-    },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1745492642454,
-      "sourceSize": 998,
+      "modifiedTime": 1745509450194,
+      "sourceSize": 26297,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1745492642454,
+      "modifiedTime": 1745509450194,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1745492642454,
+      "modifiedTime": 1745509450194,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1745492642454,
+      "modifiedTime": 1745509450194,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1745492642454,
+      "modifiedTime": 1745509450194,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1745492642454,
+      "modifiedTime": 1745509450194,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1745492642454,
+      "modifiedTime": 1745509450194,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1745492642454,
+      "modifiedTime": 1745509450194,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1745492642454,
+      "modifiedTime": 1745509450194,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1745492642454,
-      "sourceSize": 264,
+      "modifiedTime": 1745509450194,
+      "sourceSize": 1365,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1745492642454,
+      "modifiedTime": 1745509450194,
       "sourceSize": 138258,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1745492642454,
+      "modifiedTime": 1745509450194,
       "sourceSize": 285,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1745492642454,
-      "sourceSize": 36975,
+      "modifiedTime": 1745509450194,
+      "sourceSize": 33819,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1745492642454,
+      "modifiedTime": 1745509450194,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
