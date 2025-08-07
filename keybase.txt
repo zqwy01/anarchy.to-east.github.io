@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/zqwy
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://to-east.org
+  * I am zqwy (https://keybase.io/zqwy) on keybase.
+  * I have a public key ASAS_uTtKt5yLC3JabXuydl4zdbwpbJRXcEgScVRTKaxYAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012012fee4ed2ade722c2dc969b5eec9d978cdd6f0a5b2515dc12049c5514ca6b1600a",
+      "host": "keybase.io",
+      "kid": "012012fee4ed2ade722c2dc969b5eec9d978cdd6f0a5b2515dc12049c5514ca6b1600a",
+      "uid": "88acaff791cc89c584e55971e3dc1119",
+      "username": "zqwy"
+    },
+    "merkle_root": {
+      "ctime": 1754580310,
+      "hash": "3eac1315d026ae753eb1beb7ba248f7151db85e73d5b61813d45b825fd6d394966ebed9e1ffaf6d0551290fcbdef1e875816d37d73aa3ea52db03840f42a9f00",
+      "hash_meta": "b9a4a35d38bf21fbc791b94586f5cc3faeedf5761640c02f6883815c23cb1417",
+      "seqno": 27004018
+    },
+    "service": {
+      "entropy": "98PUitY0P17/j1UOPuUkaSZl",
+      "hostname": "to-east.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.5.1"
+  },
+  "ctime": 1754580393,
+  "expire_in": 504576000,
+  "prev": "edf69c9dfbdc2644ae0156269a4be2753884551055dde6ef5d051f48ba63c5ae",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgEv7k7SreciwtyWm17snZeM3W8KWyUV3BIEnFUUymsWAKp3BheWxvYWTESpcCEMQg7facnfvcJkSuAVYmmkvidTiEVRBV3ebvXQUfSLpjxa7EIMUwXN/F7OVHslhAYMd0/oeApDSndbdJlRpN6a7kLPMUAgHCo3NpZ8RAoTP9/sgMtElkzpRD7Qe5HXPIjWwGHeSBzWfBti9ij0z8htKo0avxPk7sc15oMwqa0aYvp6tO2Ah/fA5MYFJuBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHP4Ih2ooIl12Pj20TrZ7hhzYXzVD17b22I3QJ3HqVYso3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zqwy
+
+==================================================================
