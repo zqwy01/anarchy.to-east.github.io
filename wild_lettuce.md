@@ -25,7 +25,7 @@ publish: "true"
 ---
 
 <h1 align=center>
-<img src="attachments/wild_lettuce/covers/zqwy_wild_lettuce_banner.png" alt="Void Face" />
+<img src="deploy/to-east.github.io/attachments/tracks/wild_lettuce/covers/zqwy_wild_lettuce_banner.png" alt="wild_lettuce" />
 </h1>
 
 <iframe src="https://audiomack.com//embed/zqwy/song/wild-lettuce" scrolling="no" width="100%" height="252" frameborder="0" title="wild_lettuce"></iframe>
